@@ -52,10 +52,10 @@ def banner():
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═════╝ 
                ""","""
 ----------------   ----------------------
-|  nikhil3711  |   | Version : 1.0.2020 |
+|  Nh-hackers  |   | Version : 1.0.2020 |
 ----------------   ----------------------
 
-\tCreated by https://github.com/nikhil3711
+\tCreated by https://github.com/NH-hackers
 
 -------------------------------------------- """
     print(Red+logo[0]+Blue+logo[1])
@@ -220,10 +220,10 @@ def banner_id():
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═════╝ 
                ""","""
 ----------------     ----------------------
-|  nikhil3711   |     | Version : 1.0.2020 |
+|  NH-hackers  |     | Version : 1.0.2020 |
 ----------------     ----------------------
 
-\tCreated by Honey Pots...
+\tCreated by NH-hackers
 
 -------------------------------------------- \n"""
     print(Red+logo[0]+Blue+logo[1])
