@@ -303,10 +303,10 @@ def banner():
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═════╝ 
                ""","""
 ----------------   ----------------------
-|   Secanon    |   | Version : 1.0.2020 |
+|   NH-hackers  |   | Version : 1.0.2020 |
 ----------------   ----------------------
 
-\tCreated by https://github.com/nikhil3711
+\tCreated by https://github.com/NH-hackers
 
 -------------------------------------------- """
     print(Red+logo[0]+Blue+logo[1])
